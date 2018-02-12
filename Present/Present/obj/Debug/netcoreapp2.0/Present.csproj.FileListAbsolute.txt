@@ -1,0 +1,11 @@
+C:\Users\AssualtGen\source\repos\Present\Present\bin\Debug\netcoreapp2.0\Present.deps.json
+C:\Users\AssualtGen\source\repos\Present\Present\bin\Debug\netcoreapp2.0\Present.runtimeconfig.json
+C:\Users\AssualtGen\source\repos\Present\Present\bin\Debug\netcoreapp2.0\Present.runtimeconfig.dev.json
+C:\Users\AssualtGen\source\repos\Present\Present\bin\Debug\netcoreapp2.0\Present.dll
+C:\Users\AssualtGen\source\repos\Present\Present\obj\Debug\netcoreapp2.0\Present.csprojResolveAssemblyReference.cache
+C:\Users\AssualtGen\source\repos\Present\Present\obj\Debug\netcoreapp2.0\Present.csproj.CoreCompileInputs.cache
+C:\Users\AssualtGen\source\repos\Present\Present\obj\Debug\netcoreapp2.0\Present.AssemblyInfoInputs.cache
+C:\Users\AssualtGen\source\repos\Present\Present\obj\Debug\netcoreapp2.0\Present.AssemblyInfo.cs
+C:\Users\AssualtGen\source\repos\Present\Present\bin\Debug\netcoreapp2.0\Present.pdb
+C:\Users\AssualtGen\source\repos\Present\Present\obj\Debug\netcoreapp2.0\Present.dll
+C:\Users\AssualtGen\source\repos\Present\Present\obj\Debug\netcoreapp2.0\Present.pdb
