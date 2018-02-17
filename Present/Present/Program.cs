@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Discord;
 using Discord.WebSocket;
 using System.Threading.Tasks;
@@ -15,12 +15,17 @@ namespace Present
 
         private CommandHandler _handler;
 
+        Random rand;
+        string[] randomTexts;
+
+        
+
         public async Task StartAsync()
         {
 
             _client = new DiscordSocketClient();
 
-            await _client.LoginAsync(TokenType.Bot, "NDEyMzI3ODI5MDc0NjA4MTM5.DWJzVQ.II5XOeTAtPiMUYJ3Fw1SCNPwzaU");
+            await _client.LoginAsync(TokenType.Bot, "(Bot Token *From Discord*);
 
             await _client.StartAsync();
 
